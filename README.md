@@ -6,15 +6,15 @@ In this repository I've saved my solutions to a set of exercices in Python, you 
 [Solution Big Sorting]
 
 ## Encryptation
-[Problem Encryptation]
+[Problem Encryptation]  
 [Solution Encryptation]
 
 ## Time Conversion
-[Problem Time Conversion]
+[Problem Time Conversion]  
 [Solution Time Conversion]
 
 ## Time in Words
-[Problem Time in Words]
+[Problem Time in Words]  
 [Solution Time in Words]
 
 

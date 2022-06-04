@@ -3,8 +3,8 @@ In this repository I've saved my solutions to a set of exercices in Python, you 
 
 ## Big Sorting
 https://www.hackerrank.com/challenges/big-sorting/problem?h_r=internal-search
-[Links]([http://localhost/](https://github.com/CarlosAlfredoMarin/Problem_Solutions_Hackerrank/blob/main/Big_Sorting.py))
-`<link>` : <https://github.com>
+[Reference link][Big Sorting] 
+[Big Sorting]: [http://link-url/](https://github.com/CarlosAlfredoMarin/Problem_Solutions_Hackerrank/blob/main/Big_Sorting.py)
 
 ## Encryptation
 https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true

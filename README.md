@@ -24,10 +24,10 @@ In this repository I've saved my solutions to a set of exercices in Python, you 
 [Solution Big Sorting]: https://github.com/CarlosAlfredoMarin/Problem_Solutions_Hackerrank/blob/main/Big_Sorting.py
 
 [Problem Encryptation]: https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true
-[Solution Encryptation]: https://github.com/CarlosAlfredoMarin/Problem_Solutions_Hackerrank/blob/main/Encryptation.py
+[Solution Encryptation]: https://github.com/CarlosAlfredoMarin/Problem_Solutions_Hackerrank/tree/main/Encryptation
 
 [Problem Time Conversion]: https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true
 [Solution Time Conversion]: https://github.com/CarlosAlfredoMarin/Problem_Solutions_Hackerrank/blob/main/Time_Conversion.py
 
 [Problem Time in Words]: https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true
-[Solution Time in Words]: https://github.com/CarlosAlfredoMarin/Problem_Solutions_Hackerrank/blob/main/Time_in_Words.py
+[Solution Time in Words]: https://github.com/CarlosAlfredoMarin/Problem_Solutions_Hackerrank/tree/main/Time_in_Words
